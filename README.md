@@ -5,7 +5,7 @@ Requirements -
 
 * Theme developer must have a GitHub account
 * Theme developer will upload their bundle to https://www.github.com/Bigcommerce-Envato/Theme-UAT
-* All theme bundles must be zipped using the `stencil bundle` command
+* All theme bundles must be zipped using the `stencil bundle` command using the latest Stencil CLI, https://github.com/bigcommerce/stencil-cli
 * Exceptions to theme requirements must be noted with sufficient details in the Changelog file during UAT process and must be omitted for final release
 * Bundles should have all meta information completed including:
  * Name
